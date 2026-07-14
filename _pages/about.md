@@ -25,7 +25,33 @@ You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fuda
 * **Bachelor of Engineering** (2019 – 2023)
   * College of Artificial Intelligence, Beijing Information Science & Technology University
 
+### 📰 Publications
+**2026**
+* **Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation**
+  * Kun Cheng, **Yukun Zhang**, William Henry Nailon, Tonggang Zhao.
+  * *International Conference on Learning Representations (ICLR)*, 2026
+* **Uncertainty-Aware Multi-Scale Spatial Constraints for Multi-Expert Medical Image Segmentation**
+  * **Yukun Zhang**, Kun Cheng, William Henry Nailon, Tonggang Zhao, Wenhao Bai.
+  * *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026
+* **Boundary Matters: Online Mining of Moderately Forgettable Samples with General CLIP-Guided Prototypes**
+  * **Yukun Zhang**, Kun Cheng, William Henry Nailon, Tonggang Zhao, Wenhao Bai.
+  * *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026
+
+**2025**
+* **AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations**
+  * **Yukun Zhang**, [Co-Author 2], [Co-Author 3], [Co-Author 4].
+  * *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2025
+* **Multi-Scale Channel Attention with Adaptive Frequency Decoupling for Medical Image Segmentation**
+  * **Yukun Zhang**, [Co-Author 2], [Co-Author 3], [Co-Author 4].
+  * *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025
+* **Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adaptive Calibration in Medical Image Segmentation**
+  * **Yukun Zhang**, [Co-Author 2], [Co-Author 3], [Co-Author 4].
+  * *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025
+
 ### 🏆 Honors & Awards
-* **National Scholarship** (Ministry of Education, China)
-* **Outstanding Graduate** (BUPT)
-* **IEEE BIBM 2025 Student Travel Grant Award**
+**2026**
+* **Outstanding Graduate**, BUPT
+
+**2025**
+* **National Scholarship**, Ministry of Education, China
+* **IEEE BIBM Student Travel Grant Award**
