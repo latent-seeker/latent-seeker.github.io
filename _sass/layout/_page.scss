@@ -17,11 +17,11 @@
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
-  }
+   @include breakpoint($large) {
+        @include span(11 of 12 last);     /* 让内容更宽，占据11份 */
+        @include prefix(0.5 of 12);
+        @include suffix(0.5 of 12);       /* 让右边距和左边距一样，只占0.5份 */
+      }
 
   .page__inner-wrap {
     @include full();
