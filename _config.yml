@@ -22,7 +22,7 @@ repository               : "latent-seeker/latent-seeker.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"  # 将你的照片上传到 images/ 文件夹并命名为 photo.jpg
+  avatar           : "photo.jpg"  # 上传照片到 images/ 文件夹
   name             : "Yukun Zhang"
   pronouns         : "he/him"  
   bio              : "Ph.D. student focusing on multimodal large language models, image and video generation."
@@ -31,13 +31,12 @@ author:
   uri              : 
   email            : "ykzhang26@m.fudan.edu.cn" 
 
+  # Academic websites 
+  orcid            : "https://orcid.org/0009-0008-3973-4630"
+  googlescholar    : "https://scholar.google.com/citations?user=e7UMeT0AAAAJ&hl=zh-CN"
+
   # Repositories and social media
   github           : "latent-seeker"
-  # Academic website
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=e7UMeT0AAAAJ&hl=zh-CN"
-  orcid            : "https://orcid.org/0009-0008-3973-4630"
-
 
 
 # Publication Category - The following the list of publication categories and their headings
