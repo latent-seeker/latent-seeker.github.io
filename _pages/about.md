@@ -27,27 +27,34 @@ You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fuda
   * College of Artificial Intelligence, Beijing Information Science & Technology University
 
 ### 📰 Publications
+
 **2026**
-* **Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation**
-  * Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), William Henry Nailon, Tonggang Zhao\*.
-  * *International Conference on Learning Representations (ICLR)*, 2026 **(CCF-A)**
-* **Uncertainty-Aware Multi-Scale Spatial Constraints for Multi-Expert Medical Image Segmentation**
-  * **Yukun Zhang**, Kun Cheng\*, William Henry Nailon, Tonggang Zhao, Wenhao Bai.
-  * *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026 **(CCF-C)**
-* **Boundary Matters: Online Mining of Moderately Forgettable Samples with General CLIP-Guided Prototypes**
-  * **Yukun Zhang**, Kun Cheng\*, William Henry Nailon, Tonggang Zhao, Wenhao Bai.
-  * *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026 **(CCF-C)**
+
+**Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation**<br>
+Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), William Henry Nailon, Tonggang Zhao\*.<br>
+*International Conference on Learning Representations (ICLR)*, 2026 **(CCF-A)**
+
+**Uncertainty-Aware Multi-Scale Spatial Constraints for Multi-Expert Medical Image Segmentation**<br>
+**Yukun Zhang**, Kun Cheng\*, William Henry Nailon, Tonggang Zhao, Wenhao Bai.<br>
+*Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026 **(CCF-C)**
+
+**Boundary Matters: Online Mining of Moderately Forgettable Samples with General CLIP-Guided Prototypes**<br>
+**Yukun Zhang**, Kun Cheng\*, William Henry Nailon, Tonggang Zhao, Wenhao Bai.<br>
+*Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2026 **(CCF-C)**
 
 **2025**
-* **AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations**
-  * **Yukun Zhang**, Guisheng Wang, William Henry Nailon, Kun Cheng\*.
-  * *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2025 **(CCF-B)**
-* **Multi-Scale Channel Attention with Adaptive Frequency Decoupling for Medical Image Segmentation**
-  * **Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng\*.
-  * *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025 **(CCF-B)**
-* **Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adaptive Calibration in Medical Image Segmentation**
-  * **Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng\*.
-  * *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025 **(CCF-B)**
+
+**AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations**<br>
+**Yukun Zhang**, Guisheng Wang, William Henry Nailon, Kun Cheng\*.<br>
+*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2025 **(CCF-B)**
+
+**Multi-Scale Channel Attention with Adaptive Frequency Decoupling for Medical Image Segmentation**<br>
+**Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng\*.<br>
+*IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025 **(CCF-B)**
+
+**Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adaptive Calibration in Medical Image Segmentation**<br>
+**Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng\*.<br>
+*IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025 **(CCF-B)**
 
 *(\* Corresponding author)*
 
