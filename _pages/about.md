@@ -18,12 +18,12 @@ My current and future research interests primarily focus on:
 You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fudan.edu.cn).
 
 ### 🎓 Education
-* **Ph.D. in Computer Science and Technology** (2026 - Present)
-  * Fudan University
-* **M.E. in Biomedical Engineering** (2023 - 2026)
-  * Beijing University of Posts and Telecommunications (BUPT)
-* **B.E. in Intelligence Science and Technology** (2019 - 2023)
-  * Beijing Information Science & Technology University
+* **Ph.D. Student** (2026 – Present)
+  * College of Computer Science and Artificial Intelligence, Fudan University
+* **Master of Engineering** (2023 – 2026)
+  * School of Electronic Engineering, Beijing University of Posts and Telecommunications
+* **Bachelor of Engineering** (2019 – 2023)
+  * College of Artificial Intelligence, Beijing Information Science & Technology University
 
 ### 🏆 Honors & Awards
 * **National Scholarship** (Ministry of Education, China)
