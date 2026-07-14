@@ -11,12 +11,11 @@ redirect_from:
 
 I am currently a Ph.D. student in Computer Science and Technology at the **School of Computing and Intelligence Innovation, Fudan University**. Prior to this, I received my Master's degree in Biomedical Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2026. 
 
-My research lies at the intersection of medical image analysis and artificial intelligence. I am particularly interested in:
-- Medical Image Segmentation
-- Uncertainty Quantification & Reliable AI
-- Medical Multi-Modal Agents for Clinical Reasoning
+My current and future research interests primarily focus on:
+- **Multimodal Large Language Models** (多模态大模型)
+- **Image and Video Generation** (图像视频生成)
 
-You can reach me via email at [zyk@bupt.edu.cn](mailto:zyk@bupt.edu.cn).
+You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fudan.edu.cn).
 
 ### 🎓 Education
 * **Ph.D. in Computer Science and Technology** (2026 - Present)
