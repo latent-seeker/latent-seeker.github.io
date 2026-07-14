@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
+classes: wide  # <--- 就是加了这一行！
 redirect_from: 
   - /about/
   - /about.html
