@@ -12,8 +12,8 @@ redirect_from:
 I am currently a Ph.D. student in Computer Science and Technology at the **College of Computer Science and Artificial Intelligence, Fudan University (FDU)**. Prior to this, I received my Master's degree in Biomedical Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2026. 
 
 My current and future research interests primarily focus on:
-- **Multimodal Large Language Models** (多模态大模型)
-- **Image and Video Generation** (图像视频生成)
+- **Multimodal Large Language Models** 
+- **Image and Video Generation** 
 
 You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fudan.edu.cn).
 
@@ -39,13 +39,13 @@ You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fuda
 
 **2025**
 * **AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations**
-  * **Yukun Zhang**, [Co-Author 2], [Co-Author 3], [Co-Author 4].
+  * **Yukun Zhang**, Guisheng Wang, William Henry Nailon, Kun Cheng.
   * *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, 2025
 * **Multi-Scale Channel Attention with Adaptive Frequency Decoupling for Medical Image Segmentation**
-  * **Yukun Zhang**, [Co-Author 2], [Co-Author 3], [Co-Author 4].
+  * **Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng.
   * *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025
 * **Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adaptive Calibration in Medical Image Segmentation**
-  * **Yukun Zhang**, [Co-Author 2], [Co-Author 3], [Co-Author 4].
+  * **Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng.
   * *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025
 
 ### 🏆 Honors & Awards
