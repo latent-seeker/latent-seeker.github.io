@@ -9,7 +9,7 @@ redirect_from:
 
 👋 Hi, I'm Yukun Zhang (张玉坤).
 
-I am currently a Ph.D. student in Computer Science and Technology at the **School of Computing and Intelligence Innovation, Fudan University**. Prior to this, I received my Master's degree in Biomedical Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2026. 
+I am currently a Ph.D. student in Computer Science and Technology at the **College of Computer Science and Artificial Intelligence, Fudan University (FDU)**. Prior to this, I received my Master's degree in Biomedical Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2026. 
 
 My current and future research interests primarily focus on:
 - **Multimodal Large Language Models** (多模态大模型)
