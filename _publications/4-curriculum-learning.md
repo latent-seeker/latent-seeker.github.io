@@ -3,7 +3,10 @@ title: "Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adap
 collection: publications
 category: conferences
 permalink: /publication/4-curriculum-learning
-date: 2026-01-01
-venue: 'Journal/Conference Name'
-citation: 'Yukun Zhang, et al. (2026). "Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adaptive Calibration in Medical Image Segmentation."'
+date: 2025-12-15
+venue: 'IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
+venueurl: 'https://ieeebibm.org/BIBM2025/'
+location: 'Wuhan, China'
+ccf: B
+citation: 'Yukun Zhang, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng. (2025). "Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adaptive Calibration in Medical Image Segmentation." BIBM 2025.'
 ---

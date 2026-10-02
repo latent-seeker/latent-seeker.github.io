@@ -3,8 +3,12 @@ title: "Region-Aware Consistency Regularization with Weight Scheduling for Calib
 collection: publications
 category: conferences
 permalink: /publication/region-aware-consistency
-date: 2026-01-01
+date: 2026-12-16
 venue: 'Asian Conference on Computer Vision (ACCV)'
+venueurl: 'https://accv2026.org/'
+location: 'Osaka, Japan'
+ccf: C
+status: 'Accepted'
 citation: >-
   Kun Cheng (Supervisor), Yukun Zhang (Student First Author), Tonggang Zhao,
   William Henry Nailon, Yifan Liu. (2026). "Region-Aware Consistency
