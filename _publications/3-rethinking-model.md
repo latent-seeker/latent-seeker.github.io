@@ -1,6 +1,7 @@
 ---
 title: "Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation"
 collection: publications
+category: conferences
 permalink: /publication/3-rethinking-model
 date: 2026-01-01
 venue: 'International Conference on Learning Representations (ICLR)'

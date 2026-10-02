@@ -31,6 +31,14 @@ You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fuda
 
 **2026**
 
+[**AULD: Adaptive Continuous Dual-Weighting for Uncertainty Calibration in Medical Image Segmentation**](https://openreview.net/forum?id=PW6hopwoR3)<br>
+Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
+*Asian Conference on Computer Vision (ACCV)*, 2026 **(Accepted)**
+
+[**Region-Aware Consistency Regularization with Weight Scheduling for Calibrated Medical Image Segmentation**](https://openreview.net/forum?id=xA8WnoLRY7)<br>
+Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
+*Asian Conference on Computer Vision (ACCV)*, 2026 **(Accepted)**
+
 **Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation**<br>
 Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), William Henry Nailon, Tonggang Zhao\*.<br>
 *International Conference on Learning Representations (ICLR)*, 2026 **(CCF-A)**

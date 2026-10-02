@@ -1,6 +1,7 @@
 ---
 title: "Uncertainty-Aware Multi-Scale Spatial Constraints for Multi-Expert Medical Image Segmentation"
 collection: publications
+category: conferences
 permalink: /publication/1-uncertainty-aware
 date: 2026-01-01
 venue: 'Journal/Conference Name'
