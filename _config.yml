@@ -22,7 +22,7 @@ repository               : "latent-seeker/latent-seeker.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"  # 上传照片到 images/ 文件夹
+  avatar           : "photo-avatar.jpg"  # cropped square portrait for the sidebar
   name             : "Yukun Zhang"
   pronouns         : "he/him"  
   bio              : "Ph.D. student focusing on multimodal large language models, image and video generation."
