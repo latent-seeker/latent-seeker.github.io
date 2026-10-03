@@ -12,10 +12,12 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science and Technology at the **College of Computer Science and Artificial Intelligence, Fudan University (FDU)**. I received my Master's degree in Biomedical Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2026.
 
-My research interests include:
-- **Reinforcement Learning**
-- **AI Agents**
-- **Image and Video Generation**
+My academic path has taken me from biomedical engineering into computer science. My published work to date focuses on medical image segmentation; in my doctoral studies, I am exploring new directions in learning and generative AI.
+
+### 🔎 Research
+
+- **Previous research:** Medical image segmentation, particularly uncertainty calibration and consistency regularization.
+- **Currently exploring:** Reinforcement learning, AI agents, and image and video generation, with a particular interest in how agents learn from interaction and make reliable decisions.
 
 You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fudan.edu.cn).
 
@@ -32,15 +34,15 @@ You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fuda
 **2026**
 
 [**AULD: Adaptive Continuous Dual-Weighting for Uncertainty Calibration in Medical Image Segmentation**](https://openreview.net/forum?id=PW6hopwoR3)<br>
-Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
+Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
 [*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Accepted**
 
 [**Region-Aware Consistency Regularization with Weight Scheduling for Calibrated Medical Image Segmentation**](https://openreview.net/forum?id=xA8WnoLRY7)<br>
-Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
+Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
 [*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Accepted**
 
 [**Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation**](/publication/3-rethinking-model)<br>
-Kun Cheng (Supervisor), **Yukun Zhang** (Student First Author), William Henry Nailon, Tonggang Zhao\*.<br>
+Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), William Henry Nailon, Tonggang Zhao\*.<br>
 [*ICLR 2026*](https://iclr.cc/Conferences/2026/), Rio de Janeiro, Brazil · **CCF-A**
 
 [**Uncertainty-Aware Multi-Scale Spatial Constraints for Multi-Expert Medical Image Segmentation**](/publication/1-uncertainty-aware)<br>

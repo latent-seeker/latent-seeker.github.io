@@ -10,7 +10,7 @@ location: 'Osaka, Japan'
 ccf: C
 status: 'Accepted'
 citation: >-
-  Kun Cheng (Supervisor), Yukun Zhang (Student First Author), Tonggang Zhao,
+  Kun Cheng (Master's Advisor), Yukun Zhang (Research Lead), Tonggang Zhao,
   William Henry Nailon, Yifan Liu. (2026). "Region-Aware Consistency
   Regularization with Weight Scheduling for Calibrated Medical Image
   Segmentation." ACCV 2026 (Accepted).
