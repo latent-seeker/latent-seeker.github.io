@@ -8,35 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I'm Yukun Zhang (张玉坤).
+👋 Hi, I'm Yukun Zhang (张玉坤), a Ph.D. student in Computer Science and Technology at Fudan University. Before beginning my doctoral studies, I earned a Master's degree in Biomedical Engineering from Beijing University of Posts and Telecommunications in 2026.
 
-I am a Ph.D. student in Computer Science and Technology at **Fudan University**. I received my Master's degree in Biomedical Engineering from **Beijing University of Posts and Telecommunications** in 2026.
+My published work has focused on medical image segmentation, particularly uncertainty calibration and consistency regularization. I am now exploring reinforcement learning, AI agents, and image and video generation, with a particular interest in how agents learn through interaction and make reliable decisions.
 
-My academic path has taken me from biomedical engineering into computer science. My published work to date focuses on medical image segmentation; in my doctoral studies, I am exploring new directions in learning and generative AI.
-
-### 🔎 Research
-
-- **Previous research:** Medical image segmentation, particularly uncertainty calibration and consistency regularization.
-- **Currently exploring:** Reinforcement learning, AI agents, and image and video generation, with a particular interest in how agents learn from interaction and make reliable decisions.
-
-You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fudan.edu.cn).
-
-### 🎓 Education
-- **Ph.D. in Computer Science and Technology**, Fudan University · 2026–present
-- **Master of Engineering in Biomedical Engineering**, Beijing University of Posts and Telecommunications · 2023–2026
-- **Bachelor of Engineering in Artificial Intelligence**, Beijing Information Science & Technology University · 2019–2023
+I enjoy exchanging ideas and learning from others. Feel free to contact me at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fudan.edu.cn)—I'd be happy to exchange perspectives and make progress together.
 
 ### 📰 Publications
 
-**2026**
+#### 2026
 
 [**AULD: Adaptive Continuous Dual-Weighting for Uncertainty Calibration in Medical Image Segmentation**](https://openreview.net/forum?id=PW6hopwoR3)<br>
 Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao*, William Henry Nailon, Yifan Liu.<br>
-[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Poster Presentation** · **Accepted**
+[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Poster Presentation** · 🎉 **Accepted**
 
 [**Region-Aware Consistency Regularization with Weight Scheduling for Calibrated Medical Image Segmentation**](https://openreview.net/forum?id=xA8WnoLRY7)<br>
 Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao*, William Henry Nailon, Yifan Liu.<br>
-[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Poster Presentation** · **Accepted**
+[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Poster Presentation** · 🎉 **Accepted**
 
 [**Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation**](/publication/3-rethinking-model)<br>
 Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), William Henry Nailon, Tonggang Zhao\*.<br>
@@ -50,7 +38,7 @@ Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), William Henry N
 **Yukun Zhang**, Kun Cheng\*, William Henry Nailon, Tonggang Zhao, Wenhao Bai.<br>
 [*PRCV 2026*](https://www.prcv.cn/web/), Harbin, China · **CCF-C** · **Poster Presentation**
 
-**2025**
+#### 2025
 
 [**AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations**](/publication/6-affinity-umamba)<br>
 **Yukun Zhang**, Guisheng Wang, William Henry Nailon, Kun Cheng\*.<br>
