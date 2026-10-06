@@ -71,6 +71,11 @@ Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), William Henry N
 
 CCF tiers are venue classifications from the [2026 CCF recommended conference list](https://www.ccf.org.cn/Academic_Evaluation/By_category/).
 
+### 📝 Academic Service
+
+- Reviewer for MICCAI (Medical Image Computing and Computer-Assisted Intervention)
+- Reviewer for PRCV (Chinese Conference on Pattern Recognition and Computer Vision)
+
 ### 🏆 Honors & Awards
 **2026**
 * **Outstanding Graduate**, BUPT
