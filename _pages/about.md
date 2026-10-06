@@ -10,7 +10,7 @@ redirect_from:
 
 👋 Hi, I'm Yukun Zhang (张玉坤).
 
-I am a Ph.D. student in Computer Science and Technology at the **College of Computer Science and Artificial Intelligence, Fudan University (FDU)**. I received my Master's degree in Biomedical Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2026.
+I am a Ph.D. student in Computer Science and Technology at **Fudan University**. I received my Master's degree in Biomedical Engineering from **Beijing University of Posts and Telecommunications** in 2026.
 
 My academic path has taken me from biomedical engineering into computer science. My published work to date focuses on medical image segmentation; in my doctoral studies, I am exploring new directions in learning and generative AI.
 
@@ -22,12 +22,9 @@ My academic path has taken me from biomedical engineering into computer science.
 You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fudan.edu.cn).
 
 ### 🎓 Education
-* **Ph.D. Student** (2026 – Present)
-  * College of Computer Science and Artificial Intelligence, Fudan University (FDU)
-* **Master of Engineering** (2023 – 2026)
-  * School of Electronic Engineering, Beijing University of Posts and Telecommunications
-* **Bachelor of Engineering** (2019 – 2023)
-  * College of Artificial Intelligence, Beijing Information Science & Technology University
+- **Ph.D. in Computer Science and Technology**, Fudan University · 2026–present
+- **Master of Engineering in Biomedical Engineering**, Beijing University of Posts and Telecommunications · 2023–2026
+- **Bachelor of Engineering in Artificial Intelligence**, Beijing Information Science & Technology University · 2019–2023
 
 ### 📰 Publications
 
@@ -77,9 +74,5 @@ CCF tiers are venue classifications from the [2026 CCF recommended conference li
 - Reviewer for PRCV (Chinese Conference on Pattern Recognition and Computer Vision)
 
 ### 🏆 Honors & Awards
-**2026**
-* **Outstanding Graduate**, BUPT
-
-**2025**
-* **National Scholarship**, Ministry of Education, China
-* **IEEE BIBM Student Travel Grant Award**
+- **2026:** Outstanding Graduate, Beijing University of Posts and Telecommunications
+- **2025:** National Scholarship (Ministry of Education, China); IEEE BIBM Student Travel Grant Award
