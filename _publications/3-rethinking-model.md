@@ -8,6 +8,7 @@ venue: 'International Conference on Learning Representations (ICLR)'
 venueurl: 'https://iclr.cc/Conferences/2026/'
 location: 'Rio de Janeiro, Brazil'
 ccf: A
+presentation: 'Poster Presentation'
 citation: >-
   Kun Cheng (Master's Advisor), Yukun Zhang (Research Lead), William Henry
   Nailon, Tonggang Zhao. (2026). "Rethinking Model Calibration through Spectral

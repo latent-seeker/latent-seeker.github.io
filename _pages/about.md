@@ -34,38 +34,38 @@ You can reach me via email at [ykzhang26@m.fudan.edu.cn](mailto:ykzhang26@m.fuda
 **2026**
 
 [**AULD: Adaptive Continuous Dual-Weighting for Uncertainty Calibration in Medical Image Segmentation**](https://openreview.net/forum?id=PW6hopwoR3)<br>
-Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
-[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Accepted**
+Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao*, William Henry Nailon, Yifan Liu.<br>
+[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Poster Presentation** · **Accepted**
 
 [**Region-Aware Consistency Regularization with Weight Scheduling for Calibrated Medical Image Segmentation**](https://openreview.net/forum?id=xA8WnoLRY7)<br>
-Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao, William Henry Nailon, Yifan Liu.<br>
-[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Accepted**
+Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), Tonggang Zhao*, William Henry Nailon, Yifan Liu.<br>
+[*ACCV 2026*](https://accv2026.org/), Osaka, Japan · **CCF-C** · **Poster Presentation** · **Accepted**
 
 [**Rethinking Model Calibration through Spectral Entropy Regularization in Medical Image Segmentation**](/publication/3-rethinking-model)<br>
 Kun Cheng (Master’s Advisor), **Yukun Zhang** (Research Lead), William Henry Nailon, Tonggang Zhao\*.<br>
-[*ICLR 2026*](https://iclr.cc/Conferences/2026/), Rio de Janeiro, Brazil · **CCF-A**
+[*ICLR 2026*](https://iclr.cc/Conferences/2026/), Rio de Janeiro, Brazil · **CCF-A** · **Poster Presentation**
 
 [**Uncertainty-Aware Multi-Scale Spatial Constraints for Multi-Expert Medical Image Segmentation**](/publication/1-uncertainty-aware)<br>
 **Yukun Zhang**, Kun Cheng\*, William Henry Nailon, Tonggang Zhao, Wenhao Bai.<br>
-[*PRCV 2026*](https://www.prcv.cn/web/), Harbin, China · **CCF-C**
+[*PRCV 2026*](https://www.prcv.cn/web/), Harbin, China · **CCF-C** · **Poster Presentation**
 
 [**Boundary Matters: Online Mining of Moderately Forgettable Samples with General CLIP-Guided Prototypes**](/publication/2-boundary-matters)<br>
 **Yukun Zhang**, Kun Cheng\*, William Henry Nailon, Tonggang Zhao, Wenhao Bai.<br>
-[*PRCV 2026*](https://www.prcv.cn/web/), Harbin, China · **CCF-C**
+[*PRCV 2026*](https://www.prcv.cn/web/), Harbin, China · **CCF-C** · **Poster Presentation**
 
 **2025**
 
 [**AffinityUMamba: Uncertainty-Aware Medical Image Segmentation via Probabilistic Weak Supervision Beyond Gold-Standard Annotations**](/publication/6-affinity-umamba)<br>
 **Yukun Zhang**, Guisheng Wang, William Henry Nailon, Kun Cheng\*.<br>
-[*MICCAI 2025*](https://conferences.miccai.org/2025/), Daejeon, Republic of Korea · **CCF-B**
+[*MICCAI 2025*](https://conferences.miccai.org/2025/), Daejeon, Republic of Korea · **CCF-B** · **Poster Presentation**
 
 [**Multi-Scale Channel Attention with Adaptive Frequency Decoupling for Medical Image Segmentation**](/publication/5-multi-scale-channel)<br>
 **Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng\*.<br>
-[*BIBM 2025*](https://ieeebibm.org/BIBM2025/), Wuhan, China · **CCF-B**
+[*BIBM 2025*](https://ieeebibm.org/BIBM2025/), Wuhan, China · **CCF-B** · **Oral Presentation**
 
 [**Curriculum Learning-Inspired Spatial Discrepancy Regularization for Adaptive Calibration in Medical Image Segmentation**](/publication/4-curriculum-learning)<br>
 **Yukun Zhang**, William Henry Nailon, Tonggang Zhao, Guisheng Wang, Kun Cheng\*.<br>
-[*BIBM 2025*](https://ieeebibm.org/BIBM2025/), Wuhan, China · **CCF-B**
+[*BIBM 2025*](https://ieeebibm.org/BIBM2025/), Wuhan, China · **CCF-B** · **Oral Presentation**
 
 *(\* Corresponding author)*
 
