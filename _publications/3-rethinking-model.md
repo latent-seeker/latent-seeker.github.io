@@ -7,7 +7,6 @@ date: 2026-04-23
 venue: 'International Conference on Learning Representations (ICLR)'
 venueurl: 'https://iclr.cc/Conferences/2026/'
 location: 'Rio de Janeiro, Brazil'
-ccf: A
 presentation: 'Poster Presentation'
 citation: >-
   Kun Cheng (Master's Advisor), Yukun Zhang (Research Lead), William Henry

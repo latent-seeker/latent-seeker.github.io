@@ -7,7 +7,6 @@ date: 2026-12-16
 venue: 'Asian Conference on Computer Vision (ACCV)'
 venueurl: 'https://accv2026.org/'
 location: 'Osaka, Japan'
-ccf: C
 presentation: 'Poster Presentation'
 status: 'Accepted'
 citation: >-
